@@ -1,1 +1,5 @@
-
+gspread
+streamlit as st
+google.oauth2.service_account
+googleapiclient.discovery
+google.generativeai
