@@ -1,5 +1,5 @@
 gspread
 streamlit
-google.oauth2.service_account
-googleapiclient.discovery
+google.oauth2
+googleapiclient
 google.generativeai
